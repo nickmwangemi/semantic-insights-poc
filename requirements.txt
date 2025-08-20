@@ -1,7 +1,33 @@
-protobuf
+# Core dependencies
 streamlit
 numpy
+pandas
 scikit-learn
 python-dotenv
-pandas
+
+# AI/ML APIs
 google-generativeai
+protobuf
+
+# Vector Database (Optional)
+pinecone-client
+
+# Alternative embedding providers (Optional) 
+openai
+
+# Development and testing (Optional)
+pytest
+pytest-asyncio
+black
+flake8
+
+# Logging and monitoring (Optional)
+loguru
+
+# Data processing enhancements (Optional)
+nltk
+spacy
+
+# Web scraping for future data sources (Optional)
+requests
+beautifulsoup4

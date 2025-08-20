@@ -1,10 +1,12 @@
-import streamlit as st
 import json
+
 import pandas as pd
-from src.transcript_processor import TranscriptProcessor
+import streamlit as st
+
+from src.config import Config
 from src.embedding_generator import EmbeddingGenerator
 from src.search_engine import SemanticSearchEngine
-from src.config import Config
+from src.transcript_processor import TranscriptProcessor
 
 st.set_page_config(page_title="Semantic Insights PoC", page_icon="🔍", layout="wide")
 

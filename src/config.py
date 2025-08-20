@@ -1,4 +1,5 @@
 import os
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -45,7 +46,9 @@ class Config:
             "pinecone_api": bool(cls.PINECONE_API_KEY),
             "openai_api": bool(cls.OPENAI_API_KEY),
             "use_pinecone": cls.USE_PINECONE and bool(cls.PINECONE_API_KEY),
-            "vector_store": "pinecone" if (cls.USE_PINECONE and cls.PINECONE_API_KEY) else "local"
+            "vector_store": (
+                "pinecone" if (cls.USE_PINECONE and cls.PINECONE_API_KEY) else "local"
+            ),
         }
         return status
 
@@ -56,17 +59,17 @@ class Config:
             return {
                 "provider": "gemini",
                 "model": cls.GEMINI_EMBEDDING_MODEL,
-                "dimension": cls.DEFAULT_EMBEDDING_DIMENSION
+                "dimension": cls.DEFAULT_EMBEDDING_DIMENSION,
             }
         elif cls.OPENAI_API_KEY:
             return {
                 "provider": "openai",
                 "model": cls.OPENAI_EMBEDDING_MODEL,
-                "dimension": 1536  # OpenAI text-embedding-3-small dimension
+                "dimension": 1536,  # OpenAI text-embedding-3-small dimension
             }
         else:
             return {
                 "provider": "local",
                 "model": "dummy",
-                "dimension": cls.DEFAULT_EMBEDDING_DIMENSION
+                "dimension": cls.DEFAULT_EMBEDDING_DIMENSION,
             }
