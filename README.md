@@ -97,7 +97,6 @@ python run_vector_store.py --status
 
 #### **Option 1: Automated Setup Script**
 ```bash
-# Download and save the run_vector_store.py script to your project root
 python run_vector_store.py --setup
 ```
 
