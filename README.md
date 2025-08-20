@@ -172,7 +172,7 @@ python run_vector_store.py --setup
 
 ## Improvements Needed
 
-1. **Vector Databases**: Add Weaviate, Qdrant, Chroma support
+1. **Vector Databases**: Add Pinecone support
 2. **Search**: Hybrid search, boolean operators
 3. **Insights**: Schema validation, confidence scoring
 4. **UX**: Real-time search, visual analytics, export
