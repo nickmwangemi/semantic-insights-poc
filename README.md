@@ -29,7 +29,7 @@ semantic-insights-poc/
 1.  **Clone & Install**
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:nickmwangemi/semantic-insights-poc.git
     cd semantic-insights-poc
     pip install -r requirements.txt
     ```
