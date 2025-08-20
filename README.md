@@ -171,7 +171,7 @@ results = vs.search(query_embedding, top_k=10, filters={'urgency_level': 4})
 
 ## 🔧 Things to Improve
 
-  * **Vector Database**: Add support for Weaviate, Qdrant, Chroma.
+  * **Vector Database**: Add support for Pinecone.
   * **Search**: Implement hybrid (semantic + keyword) search and advanced query operators.
   * **Insight Extraction**: Add schema validation and confidence scoring.
   * **UX**: Implement search-as-you-type, visual analytics, and data export.
