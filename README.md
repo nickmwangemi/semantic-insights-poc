@@ -161,7 +161,7 @@ index = pinecone.Index("semantic-insights")
 
 ### 1. **Vector Database Integration**
 - **Current State**: Uses local JSON files for embedding storage
-- **Improvement**: Integrate with Pinecone or Weaviate for scalable vector search
+- **Improvement**: Integrate with Pinecone for scalable vector search
 - **Benefits**: Better performance, metadata filtering, production scalability
 
 ### 2. **Enhanced Search Capabilities**
