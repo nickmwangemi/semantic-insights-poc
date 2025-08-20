@@ -1,0 +1,122 @@
+[
+	{
+		"id": "transcript_001",
+		"participant": "Sarah Chen",
+		"session_date": "2024-01-15",
+		"transcript": "I've been running my e-commerce store for 2 years now. My main goal is to scale from $50K to $200K monthly revenue. The biggest challenge I'm facing is managing my team - I have 8 people now but I'm still doing everything myself. I know I need to delegate but I'm worried about quality control. I have this perfectionist mindset that's really holding me back. Sometimes I work 80-hour weeks because I can't let go."
+	},
+	{
+		"id": "transcript_002",
+		"participant": "Mike Rodriguez",
+		"session_date": "2024-01-18",
+		"transcript": "I'm a marketing consultant trying to build my personal brand. My goal is to get 100K followers on LinkedIn and launch my own course. The main blocker is time management - I'm juggling client work and content creation. I feel overwhelmed and scattered. I have this fear that if I focus too much on my brand, I'll lose clients. It's like I'm stuck between two worlds."
+	},
+	{
+		"id": "transcript_003",
+		"participant": "Lisa Thompson",
+		"session_date": "2024-01-22",
+		"transcript": "I launched my SaaS product 6 months ago. Goal is to hit $10K MRR by year-end. Currently at $2K MRR. My biggest challenge is customer acquisition - the marketing channels I'm using aren't converting. I've tried content marketing, paid ads, cold outreach. Nothing's clicking. I'm starting to doubt if there's product-market fit. I have this analytical mindset where I overthink everything instead of just trying more things."
+	},
+	{
+		"id": "transcript_004",
+		"participant": "David Park",
+		"session_date": "2024-01-25",
+		"transcript": "I run a digital agency with 15 employees. We do web development and design. My goal is to systematize operations so I can step back from day-to-day. The main issue is that clients always want to work directly with me. I can't seem to build trust in my team members with clients. It's creating a bottleneck. I have this 'hero' mentality where I think I need to save every project personally."
+	},
+	{
+		"id": "transcript_005",
+		"participant": "Emma Watson",
+		"session_date": "2024-01-30",
+		"transcript": "I'm building a coaching practice focused on executive leadership. Goal is to go from 5 clients to 20 premium clients at $5K/month each. The challenge is positioning myself as an expert when I sometimes feel like an imposter. I struggle with pricing - I undercharge because I don't feel confident enough. I have this people-pleasing tendency that makes me say yes to everything and give too much for free."
+	},
+	{
+		"id": "transcript_006",
+		"participant": "Alex Martinez",
+		"session_date": "2024-02-05",
+		"transcript": "I'm running a content creation business with a team of freelancers. My goal is to build predictable recurring revenue - currently it's all project-based and feast or famine. I want to transition to retainer clients but I'm afraid of losing the flexibility that attracts clients to us. The main challenge is standardizing our processes when every client wants something different. I have this creative mindset that resists structure, but I know we need systems to grow."
+	},
+	{
+		"id": "transcript_007",
+		"participant": "Rachel Kim",
+		"session_date": "2024-02-08",
+		"transcript": "I started a meal prep service 18 months ago. Goal is to expand to 3 new cities this year. Currently serving 500 customers weekly in one location. The biggest blocker is finding reliable kitchen partners and managing quality across locations. I'm spending all my time on operations instead of strategic growth. I have this control-freak tendency where I need to personally approve everything, which isn't scalable."
+	},
+	{
+		"id": "transcript_008",
+		"participant": "James Wilson",
+		"session_date": "2024-02-12",
+		"transcript": "I run a B2B software consultancy. We help companies implement CRM systems. My goal is to build a product instead of just selling time. I want to create our own CRM for small businesses. The challenge is I'm torn between continuing profitable consulting work and investing time in product development. Cash flow is good but I'm not building anything sellable. I have this risk-averse mindset that keeps me in my comfort zone."
+	},
+	{
+		"id": "transcript_009",
+		"participant": "Priya Patel",
+		"session_date": "2024-02-15",
+		"transcript": "I'm building an online education platform for professional development. Goal is to reach $50K MRR within 12 months. Currently at $8K MRR with 200 active students. The main challenge is course completion rates - only 30% finish. I know engagement is the issue but I'm not sure how to fix it. I have this teacher mindset where I want to pack everything with information, but maybe that's overwhelming students."
+	},
+	{
+		"id": "transcript_010",
+		"participant": "Carlos Rodriguez",
+		"session_date": "2024-02-18",
+		"transcript": "I own a fitness studio chain - 3 locations currently. Goal is to franchise the model and have 20 locations by 2026. The blocker is creating systems that work without my direct involvement. Each location has different challenges and I'm constantly putting out fires. I can't seem to hire managers who care as much as I do. I have this hands-on leadership style that worked when it was just me, but now it's limiting growth."
+	},
+	{
+		"id": "transcript_011",
+		"participant": "Nina Kowalski",
+		"session_date": "2024-02-22",
+		"transcript": "I'm a freelance graphic designer trying to build a design agency. My goal is to have 5 designers working under me and focus on client relationships. The challenge is finding good designers and trusting them with my clients. I'm worried about maintaining the quality that built my reputation. I have this perfectionist streak that makes me redo everyone else's work, which defeats the purpose of having a team."
+	},
+	{
+		"id": "transcript_012",
+		"participant": "Tom Anderson",
+		"session_date": "2024-02-25",
+		"transcript": "I run an e-learning platform for trades people - electricians, plumbers, etc. Goal is to partner with unions and trade schools for B2B sales instead of just individual subscriptions. Current revenue is $25K/month, want to get to $100K. The blocker is I don't know how to sell to organizations versus individuals. It's a completely different game. I have this technical background but lack enterprise sales experience."
+	},
+	{
+		"id": "transcript_013",
+		"participant": "Samantha Lee",
+		"session_date": "2024-03-01",
+		"transcript": "I started a virtual assistant agency for real estate agents. We're at $40K monthly revenue with 25 VAs. Goal is to expand into other industries and hit $200K monthly. The challenge is each industry has different needs and I don't want to dilute our expertise. I'm also struggling with VA retention - high turnover is killing us. I have this growth-focused mindset but maybe I'm expanding too fast without solid foundations."
+	},
+	{
+		"id": "transcript_014",
+		"participant": "Kevin Chang",
+		"session_date": "2024-03-05",
+		"transcript": "I'm building a mobile app development studio. We specialize in apps for restaurants and retail. Goal is to create our own suite of products instead of just custom development. Revenue is $60K/month from client work. The issue is every client project takes longer than expected and we never have time for our own products. I have this client-first mentality that's preventing us from building scalable IP."
+	},
+	{
+		"id": "transcript_015",
+		"participant": "Maria Santos",
+		"session_date": "2024-03-08",
+		"transcript": "I run a digital marketing agency focused on healthcare practices. We have 30 clients paying $2-5K/month each. Goal is to double revenue while working fewer hours. The main blocker is client management - too many meetings, revisions, hand-holding. I need to systematize client communication and set better boundaries. I have this service-oriented personality that makes me available 24/7, but it's burning me out."
+	},
+	{
+		"id": "transcript_016",
+		"participant": "Jason Liu",
+		"session_date": "2024-03-12",
+		"transcript": "I started a cybersecurity consulting firm 3 years ago. We do security audits and compliance for mid-sized companies. Goal is to build a SaaS security monitoring tool instead of selling time. Current revenue is $150K/month but it's not scalable. The challenge is I don't have a technical co-founder and hiring developers is expensive. I have this bootstrap mentality but maybe I need to raise money for the product vision."
+	},
+	{
+		"id": "transcript_017",
+		"participant": "Ashley Davis",
+		"session_date": "2024-03-15",
+		"transcript": "I own a boutique PR firm representing tech startups. We have 15 clients at $8-12K/month retainers. Goal is to specialize in IPO communications and work with fewer, higher-value clients. The blocker is building credibility in that space when most of our experience is early-stage companies. I'm not sure how to make that transition without losing current revenue. I have this security-focused mindset that makes big pivots scary."
+	},
+	{
+		"id": "transcript_018",
+		"participant": "Michael Brown",
+		"session_date": "2024-03-19",
+		"transcript": "I run a video production company focused on corporate training videos. Team of 12 people, revenue around $200K/month. Goal is to create a platform where companies can self-serve video creation tools instead of hiring us for everything. The challenge is this would cannibalize our current business model. I'm struggling with how to transition without losing existing clients. I have this traditional business mindset that's resistant to disrupting myself."
+	},
+	{
+		"id": "transcript_019",
+		"participant": "Jennifer White",
+		"session_date": "2024-03-22",
+		"transcript": "I'm building a subscription box service for pet supplies. We customize boxes based on pet profiles. Currently at 2,000 subscribers, goal is 10,000 by end of year. The main challenge is customer acquisition cost - it's too high relative to lifetime value. Our retention is good but getting new customers is expensive. I have this product-focused mindset where I keep improving the box contents instead of focusing on marketing and growth."
+	},
+	{
+		"id": "transcript_020",
+		"participant": "Robert Taylor",
+		"session_date": "2024-03-26",
+		"transcript": "I own a commercial cleaning service with 40 employees across 2 cities. Revenue is $500K annually. Goal is to build a technology platform that helps other cleaning services manage operations - scheduling, invoicing, quality control. The blocker is I don't know anything about software development or SaaS business models. I have this operational excellence mindset but lack the technical vision to build the platform I envision."
+	}
+]
